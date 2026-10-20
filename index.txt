@@ -1,10 +1,14 @@
-<html>
-<head><title>ATIVIDADE DE VERSIONAMENTO</title></head>
-<h1>TÍTULO01</h1>
-cat >index.txt<<'EOF'
-<html>
-<head><title>ATIVIDADE DE VERSIONAMENTO</title></head>
-<body>
-<h1>titulo01</h1>
-</body>
-</html>
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+<H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
+git status
+git add
+git commit
+git push
+git checkout
+git merge
+git pull
+git remote
