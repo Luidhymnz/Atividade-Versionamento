@@ -1,0 +1,10 @@
+<html>
+<head><title>ATIVIDADE DE VERSIONAMENTO</title></head>
+<h1>TÍTULO01</h1>
+cat >index.txt<<'EOF'
+<html>
+<head><title>ATIVIDADE DE VERSIONAMENTO</title></head>
+<body>
+<h1>titulo01</h1>
+</body>
+</html>
